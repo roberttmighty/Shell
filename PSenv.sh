@@ -1,14 +1,8 @@
 #!/bin/bash
 
-#This is an SPC custom script to Change Enviroment variables
-#to access different PeopleSoft enviroments.
-
-#Last Update: 05/17/2019 by Josh Westmoreland
-#Changes Made: Update Script to use Varables in export Paths
-
 #Update Variables below to work for each different servers.
-ENV1=fstm3
-ENV2=hrtm3
+ENV1=
+ENV2=
 
 #Script Start
 
