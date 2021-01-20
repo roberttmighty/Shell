@@ -1,16 +1,8 @@
 #!/bin/bash
-
-#This is an SPC custom script to Start up Application Domains
-#on server start.
-
-#Last Update: 03/02/2020 by Josh Westmoreland
-#Changes Made: Created Script
-
-
 ##Script Variables
 ENV=$1
 DOM=$3 #Only used for Production Servers
-TOOLS=pt85616
+TOOLS=enter tools folder
 
 ##Set Enviroment Variables
 export JAVA_HOME='/oracle/psft/pt/jdk1.8.0_201'
