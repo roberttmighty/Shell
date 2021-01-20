@@ -1,11 +1,5 @@
 #!/bin/bash
 
-#This is a SPC custom script that will delete all files older than
-#11 months in the logs folder. 
-
-#Last Update: 03/20/2020 by Josh Westmoreland
-#Changes Made: Created Script
-
 #Variables
 ENV=`ls /oracle/PS_CFG_HOME/ | grep "prd$"`
 PS_CFG_HOME=/oracle/PS_CFG_HOME
